@@ -22,10 +22,12 @@ A clean, modern portfolio website built with Next.js and Tailwind CSS, featuring
 ```bash
 # Clone the repository
 git clone https://github.com/Jimmyu2foru18/V0-Minimalist-Portfolio.git
-
+```
+```bash
 # Install dependencies
 npm install
-
+```
+```bash
 # Run development server
 npm run dev
 ```
