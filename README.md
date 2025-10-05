@@ -2,7 +2,7 @@
 
 A clean, modern portfolio website built with Next.js and Tailwind CSS, featuring smooth animations and dark/light theme support.
 
-## Features
+## ✨ Features
 
 - **Minimalist Design** - Clean typography with Geist font and strategic use of whitespace
 - **Responsive Layout** - Mobile-first design that works on all devices
@@ -10,31 +10,29 @@ A clean, modern portfolio website built with Next.js and Tailwind CSS, featuring
 - **Smooth Animations** - Subtle scroll-triggered animations and hover effects
 - **Modern Stack** - Built with Next.js 15, TypeScript, and Tailwind CSS
 
-## Built With
+## 🚀 Built With
 
-- [Next.js](https://nextjs.org/) 
-- [TypeScript](https://www.typescriptlang.org/)
-- [Tailwind CSS](https://tailwindcss.com/)
-- [v0.dev](https://v0.dev/)
+- [Next.js](https://nextjs.org/) - React framework
+- [TypeScript](https://www.typescriptlang.org/) - Type safety
+- [Tailwind CSS](https://tailwindcss.com/) - Styling
+- [v0.dev](https://v0.dev/) - AI-powered development
 
-## Getting Started
+## 📦 Getting Started
 
-```bash
+\`\`\`bash
 # Clone the repository
-git clone https://github.com/Jimmyu2foru18/V0-Minimalist-Portfolio.git
-```
-```bash
+git clone https://github.com/felixmacaspac/v0-minimalist-portfolio.git
+
 # Install dependencies
 npm install
-```
-```bash
+
 # Run development server
 npm run dev
-```
+\`\`\`
 
 Open [http://localhost:3000](http://localhost:3000) to view the portfolio.
 
-## Customization
+## 🎨 Customization
 
 The portfolio is designed to be easily customizable:
 
@@ -42,4 +40,10 @@ The portfolio is designed to be easily customizable:
 - Modify colors and styling in `app/globals.css`
 - Add or remove sections as needed
 
+## 📄 License
+
+Open source and available under the [MIT License](LICENSE).
+
 ---
+
+**Built with ❤️ using [v0.dev](https://v0.dev) by Felix Macaspac**
