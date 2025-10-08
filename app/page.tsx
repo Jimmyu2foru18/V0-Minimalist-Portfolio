@@ -856,10 +856,10 @@ export default function Home() {
 
                 <div className="space-y-4">
                   <Link
-                    href="mailto:james.mcguigan@example.com"
+                    href="mailto:jimmymcguigan18@gmail.com"
                     className="group flex items-center gap-3 text-foreground hover:text-muted-foreground transition-colors duration-300"
                   >
-                    <span className="text-base sm:text-lg">james.mcguigan@example.com</span>
+                    <span className="text-base sm:text-lg">jimmymcguigan18@gmail.com</span>
                     <svg
                       className="w-5 h-5 transform group-hover:translate-x-1 transition-transform duration-300"
                       fill="none"
@@ -943,7 +943,6 @@ export default function Home() {
           <div className="flex flex-col lg:flex-row justify-between items-start lg:items-center gap-6 sm:gap-8">
             <div className="space-y-2">
               <div className="text-sm text-muted-foreground">© 2025 James McGuigan Jr. All rights reserved.</div>
-              <div className="text-xs text-muted-foreground">Built with v0.dev</div>
             </div>
 
             <div className="flex items-center gap-4">
